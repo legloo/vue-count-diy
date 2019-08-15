@@ -1,0 +1,22 @@
+{
+  "name": "vue-count-diy",
+  "version": "1.0.0",
+  "description": "vue-count-diy",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyuhaoliar/vue-count-diy.git"
+  },
+  "keywords": [
+    "vue-count"
+  ],
+  "author": "yuhao.zhu@yeah.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyuhaoliar/vue-count-diy/issues"
+  },
+  "homepage": "https://github.com/zhuyuhaoliar/vue-count-diy#readme"
+}
