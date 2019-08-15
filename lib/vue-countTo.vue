@@ -12,11 +12,13 @@ export default {
   props: {
     fatherStyle:{
       type:Object,
-      default:{}
+      required: false,
+      default:()=>{}
     },
      childStyle:{
       type:Object,
-      default:{}
+      required: false,
+      default:()=>{}
     },
     startVal: {
       type: Number,
